@@ -1,3 +1,3 @@
 # Interactions Between Employment Rate, Fraction Married, and Teen Birth Rate of Census Tracts in Seattle, WA. 
 ## Background Information
-Expanding on past research into the effectiveness  
+The [Teen Pregnancy Prevention Program](https://opa.hhs.gov/grant-programs/teen-pregnancy-prevention-program-tpp/about-tpp), established under the Obama adminstration in 2010, funded longitudinal studies in an effort to identify behavioral and sociocultural risk factors of teen pregnancy. In Seattle, WA, the change was drastic: Director of Public Health Patty Hayes attributed the program for the 55 percent drop in Seattle's teen pregnancy rates since 2008 [source](https://www.bloomberg.com/news/articles/2017-08-15/cities-fight-cuts-to-teen-pregnancy-prevention-program).
