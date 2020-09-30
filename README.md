@@ -8,6 +8,6 @@ For cities like Seattle, WA, the implementation of the Teen Pregnancy Prevention
 Is there an interaction between negative outcomes of teen pregnancy, specifically employment rate and fraction married, and teen birth rates, and can we use such outcomes to predict the teen birth rate of a specific census tract in Seattle, WA?
 
 ## Data Question
-Data were pulled from Opportunity Insights' [Opportunity Atlas](https://www.opportunityatlas.org/), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. The dataset compiled employment rate, fraction married, and teen birth rate organized by census tract in Seattle, WA. 
+Data were pulled from Opportunity Insights' [Opportunity Atlas](https://www.opportunityatlas.org/), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. The [dataset](raw-data.xlsx) compiled employment rate, fraction married, and teen birth rate organized by census tract in Seattle, WA. 
 
 ## Data Answer
