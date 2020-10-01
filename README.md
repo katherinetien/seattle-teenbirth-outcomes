@@ -12,9 +12,9 @@ Data were pulled from Opportunity Insights' [Opportunity Atlas](https://www.oppo
 
 ## Data Answer
 ![Alt text](regression-data.png)
-Using the multiple linear regression model, multiple data points indicate to us the relationship between employment rate, fraction married, and teen birth rates. The R-squared value tells us 29.8% of the data can be explained by the model; in other words, variation in one variable can be explained by the other variables to the accuracy of 29.8%. 
+Using the multiple linear regression model, multiple data points indicate to us the relationship between employment rate, fraction married, and teen birth rates. The R-squared value tells us 29.8% of the data can be explained by the model; in other words, variation in one variable can be explained by the other variables to the accuracy of 29.8%. Thus, the prediction of teen birth rates using the two outcomes is relatively unreliable. 
 
-Although the R-squared value may be relatively low, p-values for each variable confirm its statistical significance. The statistical benchmark for p-value is 0.05: if the p-value is lower than 0.05, we can reject the null hypothesis and confirm a variable's significance. Both the intercept value and fraction married is below 0.05 and thus is statistically significant, while employment rate is not.  
+Although the R-squared value is low, the p-value for each variable confirms its statistical significance. The statistical benchmark for p-value is 0.05: if the p-value is lower than 0.05, we can reject the null hypothesis and confirm a variable's significance. Both the intercept value and fraction married is below 0.05 and thus is statistically significant, while employment rate is not.
 
 The statistical signficance of each variable in the multiple linear regression model is also corroborated by the simple linear regression models for (1) teen birth rate and employment rate and (2) teen birth rate and fraction married, both shown below:
 ![Alt text](simple-regression.png) ![Alt text](simple-regression2.png) 
@@ -23,4 +23,5 @@ When we compare both R-squared values, the linear regression model of teen birth
 
 ## Implications and Limitations of Data
 
+From this data analysis, we observed a statistically significant relationship between teen birth rates and fraction married, but not between teen birth rates and employment rates in Seattle, WA. The interaction between teen birth rates and fraction married confirms previous research identifying the single marital status for teen mothers. However, one major limitation is the parameters of the dataset: both employment rate and fraction married accounted for all of the female population followed in Opportunity Atlas, not just women who had a teen birth. A much more accurate conclusion could be drawn from examining such outcomes within the population of teenage mothers. However, the statistical signficance of fraction married shows us that the lower the fraction married for a neighborhood, the higher the teenage birth rate.   
 
