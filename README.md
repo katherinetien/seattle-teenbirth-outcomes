@@ -12,4 +12,4 @@ Data were pulled from Opportunity Insights' [Opportunity Atlas](https://www.oppo
 
 ## Data Answer
 ![Alt text](regression-data.png)
-
+The R^2 squared value 
