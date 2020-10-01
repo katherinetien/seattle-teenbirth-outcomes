@@ -16,5 +16,11 @@ Using the multiple linear regression model, multiple data points indicate to us 
 
 Although the R-squared value may be relatively low, p-values for each variable confirm its statistical significance. The statistical benchmark for p-value is 0.05: if the p-value is lower than 0.05, we can reject the null hypothesis and confirm a variable's significance. Both the intercept value and fraction married is below 0.05 and thus is statistically significant, while employment rate is not.  
 
-The statistical signficance of each variable in the multiple linear regression model is also corroborated by the simple linear regression models for (1) teen birth rate and employment rate and (2) teen birth rate and fraction married, both shown here:
+The statistical signficance of each variable in the multiple linear regression model is also corroborated by the simple linear regression models for (1) teen birth rate and employment rate and (2) teen birth rate and fraction married, both shown below:
 ![Alt text](simple-regression.png) ![Alt text](simple-regression2.png) 
+
+When we compare both R-squared values, the linear regression model of teen birth rates and fraction married accurately captures a higher percentage of the data.
+
+## Implications and Limitations of Data
+
+
