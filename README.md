@@ -11,3 +11,6 @@ Is there an interaction between negative outcomes of teen pregnancy, specificall
 Data were pulled from Opportunity Insights' [Opportunity Atlas](https://www.opportunityatlas.org/), an online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility. The [dataset](raw-data.xlsx) compiled employment rate, fraction married, and teen birth rate organized by census tract in Seattle, WA. 
 
 ## Data Answer
+Interactions between teen birth rate, employment rate, and fraction married were analyzed using multiple linear regression. 
+regression-data.png
+As shown in th
